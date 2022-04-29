@@ -9,4 +9,4 @@
 - ⚡ Fun fact : Do bug but do it right 🦠
 
 ### My social media :
-[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discordapp.com/users/228100207965896707) [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)]()
+[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg =30x40)](https://discordapp.com/users/228100207965896707) [![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg =30x40)]()[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg =30x40)](https://twitch.tv/macaroftv)[![](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg =30x40)](https://twitter.com/lcds_macaroftv)
